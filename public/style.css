@@ -1,0 +1,16 @@
+.todo {
+  margin-bottom: 1rem;
+}
+.todo label {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  background: #f0f0f0;  
+  padding: 1rem;
+}
+.completed {
+  text-decoration: line-through;
+}
